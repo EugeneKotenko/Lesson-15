@@ -1,3 +1,5 @@
+'Use strict';
+
 const table = document.getElementById('multiplicationTable');
 const tbody = table.getElementsByTagName('tbody')[0];
 
